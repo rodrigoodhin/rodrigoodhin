@@ -2,15 +2,13 @@
 
 ### I'm a QAE Automation Engineer and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+✓ I’m currently learning everything 🤣 <br>
+✓ I’m looking to collaborate with other content creators <br>
+✓ 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocostacorrea/)
-
-<br />
 
 ### Languages and Tools:
 
