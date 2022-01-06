@@ -1,6 +1,6 @@
 ## ![](https://i.ibb.co/Qmh2hBd/rodrigo-odhin-min.png)
 
-### I'm a QAE Automation Engineer and Developer!!
+### I'm a QAE Automation Engineer and Developer !!!
 
 ✓ I’m currently learning everything 🤣 <br>
 ✓ I’m looking to collaborate with other content creators <br>
