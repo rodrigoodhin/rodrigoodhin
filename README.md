@@ -1,21 +1,22 @@
-## ![](https://i.ibb.co/Qmh2hBd/rodrigo-odhin-min.png)
+## <img src="https://i.ibb.co/Qmh2hBd/rodrigo-odhin-min.png" />
 
 ### I'm a QAE Automation Engineer and Developer !!!
 
+✓ I’m currently working on something cool :wink: <br>
 ✓ I’m currently learning everything 🤣 <br>
 ✓ I’m looking to collaborate with other content creators <br>
-✓ 2022 Goals: Contribute more to Open Source projects
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocostacorrea/)
-
-### More projects:
-
+✓ 2022 Goals: Contribute more to Open Source projects <br>
+✓ Reach me at:&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocostacorrea/)&nbsp;
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rodrigoodhin)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rodrigoodhin)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigoodhin)
 
-### Languages and Tools:
+#### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
@@ -38,11 +39,6 @@
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
-![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
 ![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -61,6 +57,13 @@
 ![](https://img.shields.io/badge/Discord_Gophers-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Fiber-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Vue_Land-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
- 
 <br />
+
+#### 📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d9510ddc-fddf-40f8-8b6a-108ceb3eaa6e/834642f2-5663-4988-ae77-f6004d29d5bf.png" /></a>
+<br/>
+<br/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d9510ddc-fddf-40f8-8b6a-108ceb3eaa6e/18f548d9-4786-4ecc-95c7-5d30195ba279.png" /></a>
+  
 <br />
