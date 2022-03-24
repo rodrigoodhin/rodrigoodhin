@@ -60,10 +60,10 @@
 <br />
 
 #### 📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-
+###### Coding Activity
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d9510ddc-fddf-40f8-8b6a-108ceb3eaa6e/834642f2-5663-4988-ae77-f6004d29d5bf.png" /></a>
 <br/>
-<br/>
+###### Languages
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d9510ddc-fddf-40f8-8b6a-108ceb3eaa6e/18f548d9-4786-4ecc-95c7-5d30195ba279.png" /></a>
   
 <br />
