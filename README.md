@@ -1,4 +1,4 @@
-## <img src="https://i.ibb.co/Qmh2hBd/rodrigo-odhin-min.png" />
+## <img src="https://res.cloudinary.com/odhin/image/upload/v1651073969/odhin/logo_rodrigo_odhin_yxcvcr.png" />
 
 ### I'm a QAE Automation Engineer and Developer !!!
 
