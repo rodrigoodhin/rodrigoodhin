@@ -5,7 +5,7 @@
 ✓ I’m currently working on something cool :wink: <br>
 ✓ I’m currently learning everything 🤣 <br>
 ✓ I’m looking to collaborate with other content creators <br>
-✓ 2022 Goals: Contribute more to Open Source projects <br>
+✓ Personals Goals: Contribute more to Open Source projects <br>
 ✓ Reach me at:&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocostacorrea/)&nbsp;
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rodrigoodhin)
