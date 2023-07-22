@@ -45,6 +45,7 @@
 ![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![](https://img.shields.io/badge/-playwright-%232ead33?style=for-the-badge&logo=playwright&logoColor=d65348)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -59,11 +60,3 @@
 ![](https://img.shields.io/badge/Vue_Land-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 <br />
 
-#### 📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-###### Coding Activity
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d9510ddc-fddf-40f8-8b6a-108ceb3eaa6e/834642f2-5663-4988-ae77-f6004d29d5bf.png" /></a>
-<br/>
-###### Languages
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d9510ddc-fddf-40f8-8b6a-108ceb3eaa6e/18f548d9-4786-4ecc-95c7-5d30195ba279.png" /></a>
-  
-<br />
